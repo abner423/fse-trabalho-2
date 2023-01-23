@@ -11,4 +11,4 @@ pip3 install RPi.bme280
 3. Rode a aplicação com python3 main.py
 
 
-## Apresentacao
+## Apresentacao Disponivel na pasta gravacao
